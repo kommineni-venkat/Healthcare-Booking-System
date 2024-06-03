@@ -120,7 +120,7 @@
 
 .btns>.btn-next {
     margin-left: auto;
-    background-color: #6C70DC;
+    background-color: #494a58;
     color: #FFFFFF;
     padding: 11px 14px;
     border-radius: 2px;
@@ -134,7 +134,7 @@
 }
 
 .btns>.btn-next:hover {
-    background-color: #5A5EBC;
+    background-color: #5e5e61;
 }
 
 .btn-back {
@@ -400,7 +400,7 @@
 
 .time__picker-title>h3 {
     padding: 15px;
-    color: #6c70dc;
+    color: #d3d3dd;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -496,7 +496,7 @@ p.note-title {
 }
 
 .note-group>div>h3 {
-    color: #6c70dc;
+    color: #f1f1f3;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
